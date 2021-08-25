@@ -13,7 +13,7 @@ The topology used to test the code looks like this-
 ![image](https://user-images.githubusercontent.com/83832139/130363645-b5edb608-8842-48e9-9642-9923183749d5.png)
 First of all ensure that you have installed Ryu SDN Controller and mininet in your machine then procced to run the application.
 
-REQUIREMENTS-
+# REQUIREMENTS-
 
 i) Oracle Virtualbox 6.1
 
@@ -23,11 +23,13 @@ iii) Ryu SDN Controller
 
 iv) Mininet network emulator
 
+# INSTALLATION
+
 Install Virtualbox with Ubuntu 20.04 OS-
 
 i) Download Ubuntu 20.04 ISO Image (Desktop Versiion) from http://releases.ubuntu.com/20.04/
 
-ii) Imported Ubuntu 20.04 image- 
+ii) Import Ubuntu 20.04 image- 
 
 First, open VirtualBox. Then, click on Machine > New. Now, type in a name for the VM, select Linux from the Type dropdown menu, and Ubuntu (64-bit) from the Version dropdown menu. Then, click on Next >.
 
